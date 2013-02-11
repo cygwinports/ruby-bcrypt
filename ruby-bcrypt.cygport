@@ -1,0 +1,11 @@
+ORIG_PN="bcrypt-ruby"
+inherit rubygem
+
+NAME="ruby-bcrypt"
+VERSION=3.0.1
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby password hash extension"
+DESCRIPTION="bcrypt() is a sophisticated and secure hash algorithm designed by
+The OpenBSD project for hashing passwords. bcrypt-ruby provides a simple,
+humane wrapper for safely handling passwords."
